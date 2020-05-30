@@ -2,18 +2,21 @@
 
 A simple alarm clock - extremely user friendly - has no snooze button - you have to walk away to turn it off forcing you to wake up.
 
-It was, is and always will be free of ads.
+It was, is, and always will be free of ads.
 
 ## Inspiration
 
-It was the year 2020, home was the new world, a random survey indicated 69% of the world (excluding me) didn't wake with the first alarm.
+It was the year 2020, the home was the new world, a random survey indicated 69% of the world (excluding me) didn't wake with the first alarm.
 
 ## How to begin?
 
-For now, me along with a couple of crazy talented friends are looking for more contributors to work on this project.
-* Are you a backend developer? You can help us build a robust backend.
-* Are you a frontend developer? You can help us build a sleek UI.
-* Are you a designer? Turn your wildest imaginations to reality.
+For now, I along with a couple of crazy talented friends are looking for more contributors to work on this project.
+
+We are open to any radical idea. Join the discussion [here](https://join.slack.com/t/summer-projects-co/shared_invite/zt-etacd3s4-LjNeRGrrYNpEZtuW6wgp2Q).
+
+* Are you a backend developer? Help us build a robust backend.
+* Are you a frontend developer? Help us build a sleek UI.
+* Are you a designer? Turn your wildest imaginations into reality.
 
 ## What is the goal?
 
@@ -25,7 +28,7 @@ Please read [CONTRIBUTING.md](https://github.com/Harshal96/alarm-clock/blob/mast
 
 ## Authors
 
-* **Harshal Parekh** - *Initial work* - [PurpleBooth](https://github.com/Harshal96)
+* **Harshal Parekh** - *Initial work* - [Harshal96](https://github.com/Harshal96)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
