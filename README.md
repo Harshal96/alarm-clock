@@ -2,6 +2,8 @@
 
 A simple alarm clock - extremely user friendly - has no snooze button - you have to walk away to turn it off forcing you to wake up.
 
+It was, is and always will be free of ads.
+
 ## Inspiration
 
 It was the year 2020, home was the new world, a random survey indicated 69% of the world (excluding me) didn't wake with the first alarm.
@@ -11,7 +13,7 @@ It was the year 2020, home was the new world, a random survey indicated 69% of t
 For now, me along with a couple of crazy talented friends are looking for more contributors to work on this project.
 * Are you a backend developer? You can help us build a robust backend.
 * Are you a frontend developer? You can help us build a sleek UI.
-* Are you a designer? Bring your wildest imaginations, collaborate with the front-end developers and bring them to reality.
+* Are you a designer? Turn your wildest imaginations to reality.
 
 ## What is the goal?
 
