@@ -1,87 +1,45 @@
-# Project Title
+# Alarm Clock
 
-One Paragraph of project description goes here
+A simple alarm clock - extremely user friendly - has no snooze button - you have to walk away to turn it off forcing you to wake up.
 
-## Getting Started
+## Inspiration
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+It was the year 2020, home was the new world, a random survey indicated 69% of the world (excluding me) didn't wake with the first alarm.
 
-### Prerequisites
+## How to begin?
 
-What things you need to install the software and how to install them
+For now, me along with a couple of crazy talented friends are looking for more contributors to work on this project.
+Are you a backend developer? You can help us build a robust backend.
+Are you a frontend developer? You can help us build a sleek UI.
+Are you a designer? Bring your wildest imaginations, collaborate with the front-end developers and bring them to reality.
 
-```
-Give examples
-```
+## What is the goal?
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+iOS and Android apps working seamlessly on millions of devices.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Please read [CONTRIBUTING.md](https://github.com/Harshal96/alarm-clock/blob/master/contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Harshal Parekh** - *Initial work* - [PurpleBooth](https://github.com/Harshal96)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+/* The License:
+You (from this point on referred to as The You) are hereby granted by me (from this point on referred to as The Me) 
+license to knock yourself silly with this template. By using this template The You implicitly accepts this 
+license and pledges solemnly to never claim creative ownership of any graphics, code, concepts, eggs, bacon, ideas, 
+colors, shapes, hypertext-transfer protocols or other conduits of the visual splendor that is this template. 
 
-## Acknowledgments
+The Me, in turn, pledges equally solemnly to be far too lazy to ever check up on you, so if you do manage to pull 
+some chicks The Me won't have a cow. However The Me would be sorely disappointed if The You 
+were to try and sell or distribute this work without acknowledging The Me. Seriously. The Me will come down on 
+The You like a large quantity of hard and heavy objects that in large quantities may be harmful and possibly even 
+lethal to The You; So don't even think about it, The Buster.
+*/
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Additionally, this project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
