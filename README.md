@@ -1,6 +1,6 @@
 # Alarm Clock
 
-A simple alarm clock - extremely user friendly - has no snooze button - you have to walk away to turn it off forcing you to wake up.
+A simple alarm clock - extremely user friendly - has no snooze button - **you have to walk away to turn it off** forcing you to wake up.
 
 It was, is, and always will be free of ads.
 
