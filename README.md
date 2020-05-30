@@ -9,9 +9,9 @@ It was the year 2020, home was the new world, a random survey indicated 69% of t
 ## How to begin?
 
 For now, me along with a couple of crazy talented friends are looking for more contributors to work on this project.
-Are you a backend developer? You can help us build a robust backend.
-Are you a frontend developer? You can help us build a sleek UI.
-Are you a designer? Bring your wildest imaginations, collaborate with the front-end developers and bring them to reality.
+* Are you a backend developer? You can help us build a robust backend.
+* Are you a frontend developer? You can help us build a sleek UI.
+* Are you a designer? Bring your wildest imaginations, collaborate with the front-end developers and bring them to reality.
 
 ## What is the goal?
 
@@ -29,7 +29,6 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-/* The License:
 You (from this point on referred to as The You) are hereby granted by me (from this point on referred to as The Me) 
 license to knock yourself silly with this template. By using this template The You implicitly accepts this 
 license and pledges solemnly to never claim creative ownership of any graphics, code, concepts, eggs, bacon, ideas, 
@@ -40,6 +39,5 @@ some chicks The Me won't have a cow. However The Me would be sorely disappointed
 were to try and sell or distribute this work without acknowledging The Me. Seriously. The Me will come down on 
 The You like a large quantity of hard and heavy objects that in large quantities may be harmful and possibly even 
 lethal to The You; So don't even think about it, The Buster.
-*/
 
 Additionally, this project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
